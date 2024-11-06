@@ -1,0 +1,4 @@
+flask
+torch
+opencv-python
+yolov5  # Make sure to install YOLOv9-specific packages
